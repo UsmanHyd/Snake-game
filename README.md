@@ -1,3 +1,6 @@
 # Snake-game
 
-This contains the code for the game as well as the report inside the folder
+Complete Snake Game with GUI is made
+Using Tkinter library
+
+Source code aswell as Report is inside the source folder.
